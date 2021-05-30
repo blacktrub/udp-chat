@@ -1,5 +1,5 @@
 # Short description
-Client-server chat without any dependencies
+Peer-to-peer chat without any dependencies
 
 # How to run
 ## Run server
